@@ -73,3 +73,5 @@ else:
     print("Nada mal 😁 ¡Intenta otra vez!")
 
 print("Actualización - Prueba Commit 10:40pm")
+
+print("Segundo comentario prueba - 8/10/2025 - 7:17am")
